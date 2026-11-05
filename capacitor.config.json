@@ -1,0 +1,9 @@
+{
+  "appId": "com.lifepilot.ai",
+  "appName": "LifePilot AI",
+  "webDir": "frontend/out",
+  "server": {
+    "hostname": "localhost",
+    "androidScheme": "https"
+  }
+}
